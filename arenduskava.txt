@@ -1,0 +1,16 @@
+Arendusplaan
+
+Tanel,Kerman,Cevin,Martten
+
+27.03.2017- Ideede kogumine.
+
+29.03.2017- Arendusplaan, Story alustamine.
+
+03.04.2017- Storyiga jätkamine ja koodi kirjutamine	
+
+05.04.2017- Stroyiga jätkamine ja koodi kirjutamine
+
+10.04.2017- testimine ja viimase lihvi andmine
+
+12.04.2017- Toote esitlemine
+
